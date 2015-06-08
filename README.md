@@ -1,2 +1,2 @@
-# layouts
-Premium Layouts and Themes
+# Layouts
+Used to track changelogs
